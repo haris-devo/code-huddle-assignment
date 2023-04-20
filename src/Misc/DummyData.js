@@ -27,7 +27,7 @@ const DummyArr = [
   },
   {
     id: 2,
-    name: "Order list",
+    name: "Active Channels",
     nameId: "headingTwo",
     collapseId: "collapseTwo",
     icon: "bx bx-chevron-down",
@@ -52,7 +52,7 @@ const DummyArr = [
   },
   {
     id: 3,
-    name: "Analytics",
+    name: "Active Channels",
     icon: "bx bx-pie-chart-alt-2",
     collapseId: "collapseThree",
     icon: "bx bx-chevron-down",
