@@ -53,7 +53,6 @@ const DummyArr = [
   {
     id: 3,
     name: "Active Channels",
-    icon: "bx bx-pie-chart-alt-2",
     collapseId: "collapseThree",
     icon: "bx bx-chevron-down",
     subMenu: [
