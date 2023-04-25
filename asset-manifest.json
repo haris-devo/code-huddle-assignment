@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-huddle-assignment/static/css/main.2a468bc8.css",
+    "main.js": "/code-huddle-assignment/static/js/main.914826cd.js",
+    "static/js/787.956ccf2a.chunk.js": "/code-huddle-assignment/static/js/787.956ccf2a.chunk.js",
+    "index.html": "/code-huddle-assignment/index.html",
+    "main.2a468bc8.css.map": "/code-huddle-assignment/static/css/main.2a468bc8.css.map",
+    "main.914826cd.js.map": "/code-huddle-assignment/static/js/main.914826cd.js.map",
+    "787.956ccf2a.chunk.js.map": "/code-huddle-assignment/static/js/787.956ccf2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a468bc8.css",
+    "static/js/main.914826cd.js"
+  ]
+}
