@@ -27,7 +27,7 @@ const Sidebar = () => {
             id={item.nameId}
            
           >
-            <i className={item.icon}></i>
+            <i>{item.icon}</i>
             <span className="links_name">{item.name}</span>
           </button>
           <div className="accordion " id="accordionExample"  key={index}>

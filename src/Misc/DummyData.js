@@ -5,7 +5,7 @@ const DummyArr = [
     nameId: "headingOne",
     collapseId: "collapseOne",
     showFirst: "show",
-    icon: "bx bx-chevron-down",
+    icon: "AC",
     subMenu: [
       {
         id: 1,
@@ -30,7 +30,7 @@ const DummyArr = [
     name: "Active Channels",
     nameId: "headingTwo",
     collapseId: "collapseTwo",
-    icon: "bx bx-chevron-down",
+    icon: "AC",
     subMenu: [
       {
         id: 1,
@@ -54,7 +54,7 @@ const DummyArr = [
     id: 3,
     name: "Active Channels",
     collapseId: "collapseThree",
-    icon: "bx bx-chevron-down",
+    icon: "AC",
     subMenu: [
       {
         id: 1,

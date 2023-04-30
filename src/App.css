@@ -668,7 +668,8 @@ nav .profile-details i {
 }
 
 .accordion-button::after {
-  background: #C0F2D8 !important;
+  /* background: #C0F2D8 !important; */
+
 }
 
 /* Start of Videos Area  */
@@ -762,4 +763,3 @@ button:hover {
   color: #fff !important;
   /* transform: scale(1.1); */
 }
-
